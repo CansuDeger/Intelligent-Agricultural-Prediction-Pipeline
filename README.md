@@ -81,7 +81,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost lightgbm catboo
 Notebook'u Jupyter veya benzeri bir ortamda açıp sırasıyla çalıştırın:
 
 ```bash
-jupyter notebook tarimsal_verim_tahmini.ipynb
+jupyter notebook Analiz_Model_Olusturma.ipynb
 ```
 
 > ⚠️ **Not:** Veri seti şu anda sabit bir yoldan okunuyor:
